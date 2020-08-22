@@ -8,8 +8,10 @@ Download the latest release [here]()
 GameBoy game file (.gb) is playable in emulators or loaded on a GBC Flash card cartridge.  
 Recommended emulators:
  - [BGB](https://bgb.bircd.org/) (Windows only)
+ - [googulator](www.googulator.com) (Online only, requires google account)
  - [retroarch](https://www.retroarch.com/index.php)
  - [VisualBoyAdvanced](https://github.com/visualboyadvance-m/visualboyadvance-m/releases/latest)
+ 
 Recommended GBC flash card cartridges:
  - [EZ-Flash Jr](http://www.ezflash.cn/product/ezflash-junior/)
 
