@@ -1,7 +1,7 @@
 AS = lcc -c
-CC = lcc -Wa-l -Wl-m
+CC = lcc -Wa-l -Wl-m -Wl-j -DUSE_SFR_FOR_REG
 
-project_name = sketchr
+project_name = etch-0.0.1
 
 SRC_DIR := src
 OBJ_DIR := build
