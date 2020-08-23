@@ -2,7 +2,7 @@
 ---
 @import "{{ site.theme }}";
 body {
-    background-color: rgb(224, 248, 208);
+    background-color: #e0f8d0;
     padding:50px;
     font: 14px/1.5 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
     color:#595959;
@@ -43,11 +43,11 @@ body {
   }
   
   a:hover {
-    color:rgb(42, 80, 66);
+    color:#2a5042;
   }
 
   a:link {
-    color: rgb(136, 192, 112);
+    color: #88c070;
   }
   
   a small {
