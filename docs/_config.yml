@@ -3,3 +3,4 @@ logo: Icon_large.png
 title: Etch
 description: Simple drawing game for the GameBoy Color.
 show_downloads: true
+version: 0.0.1
