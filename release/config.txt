@@ -1,0 +1,4 @@
+;!@Install@!UTF-8!
+Title="Etch v0.0.1"
+RunProgram="bgb.exe -rom etch-0.0.1.gb"
+;!@InstallEnd@!

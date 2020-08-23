@@ -87,3 +87,16 @@ lcc -Wa-l -Wl-m -Wl-j -DUSE_SFR_FOR_REG -c -o etch.gb ..\src\etch.cc
 ```
 This will build the app to a build folder in this repository.  
 The '.gb' file in this build folder is the gameboy game that has just been compiled. 
+
+# Installer
+Generate a runable emulator of the game on Windows using the following instructions.  
+This requires 7-zip to be installed which can be downloaded from [here](https://www.7-zip.org/).  
+
+1. Copy the game file (etch-0.0.1.gb) to the release/Etch folder.
+2. Add bgb.exe and game file in this directory to a 7-Zip archive. (Right click -> Add to archive).
+3. Copy the resulting file to the release folder
+4. Create exe from 7z archive and config on the command line:
+```
+copy /b 7zSD.sfx + config.txt + Etch-0.0.1-emulator.7z Etch-0.0.1-emulator.exe
+```
+For a more polished looking application you can use [Resource Hacker](http://www.angusj.com/resourcehacker) to change the icon and meta data. 
