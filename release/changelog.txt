@@ -1,0 +1,9 @@
+===========
+Etch v0.0.1
+===========
+23-08-2020
+-----------
+Features
+   - Draw with arrow keys
+   - Change colour with A
+   - Clear screen with B

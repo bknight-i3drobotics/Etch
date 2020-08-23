@@ -4,7 +4,7 @@ cmake_minimum_required(VERSION 2.6)
 
 cmake_policy(SET CMP0048 NEW)
 
-project(etcher VERSION "0.0.1" LANGUAGES C )
+project(etch VERSION "0.0.1" LANGUAGES C )
 
 set(CMAKE_C_FLAGS "${CMAKE_C_FLAGS} -Wa-l -Wl-m -Wl-j -DUSE_SFR_FOR_REG")
 
