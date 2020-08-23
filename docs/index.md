@@ -3,7 +3,7 @@ A simple drawing game for the GameBoy Color.
 
 # Play
 Easiest way to play is to download the latest emulated release [Etch.exe](https://github.com/GamesKnightStudios/Etch/releases/download/v0.0.1/Etch-0.0.1.exe).  
-Also avaible on [itch.io](https://gamesknightstudios.itch.io/etch)
+Also avaible on [itch.io](https://gamesknightstudios.itch.io/etch).
 
 GameBoy game file is playable in emulators or loaded on a GBC flash card cartridge.  
 To play it in emulators, download the [etch.gb](https://github.com/GamesKnightStudios/Etch/releases/download/v0.0.1/etch-0.0.1.gb) GameBoy game file from the latest release and load it into your emulator.  
