@@ -2,7 +2,7 @@
 A simple drawing game for the GameBoy Color.
 
 # Release
-Download the latest release [here]()
+Download the latest release [here](https://github.com/GamesKnightStudios/Etch/releases/latest)
 
 # Play
 GameBoy game file (.gb) is playable in emulators or loaded on a GBC Flash card cartridge.  
