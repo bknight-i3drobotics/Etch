@@ -2,3 +2,4 @@ theme: jekyll-theme-minimal
 logo: Icon_large.png
 title: Etch
 description: Simple drawing game for the GameBoy Color.
+show_downloads: true
