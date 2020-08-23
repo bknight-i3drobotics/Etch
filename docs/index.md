@@ -10,7 +10,7 @@ To play it on a real Game Boy, download the [etch.gb](https://github.com/GamesKn
 
 ### Recommended emulators
  - [BGB](https://bgb.bircd.org/) (Windows only)
- - [Googulator](www.googulator.com) (Online only, requires google account)
+ - [Googulator](https://www.googulator.com) (Online only, requires google account)
  - [RetroArch](https://www.retroarch.com/index.php)
  - [VisualBoyAdvanced](https://github.com/visualboyadvance-m/visualboyadvance-m/releases/latest)
 
