@@ -38,12 +38,16 @@ body {
   }
   
   a {
-    color:rgb(52, 104, 86);
+    color:rgb(8, 24, 32);
     text-decoration:none;
   }
   
   a:hover {
-    color:#069;
+    color:rgb(42, 80, 66);
+  }
+
+  a:link {
+    color: rgb(136, 192, 112);
   }
   
   a small {
